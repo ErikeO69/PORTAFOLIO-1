@@ -33,11 +33,11 @@
    git clone [https://github.com/ErikeO69/PORTAFOLIO-1.git](https://github.com/ErikeO69/PORTAFOLIO-1.git)
    cd PORTAFOLIO-1
 ## instalar las dependecias necesarias 
-
+```bash
  pip install requests beautifulsoup4 pandas openpyxl
 
  ## ejecutar el scrapper
-
+```bash
  python plantilla_scraper_pro.py
 
  ## 📬 Contacto y Servicios
