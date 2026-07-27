@@ -32,3 +32,17 @@
    ```bash
    git clone [https://github.com/ErikeO69/PORTAFOLIO-1.git](https://github.com/ErikeO69/PORTAFOLIO-1.git)
    cd PORTAFOLIO-1
+## instalar las dependecias necesarias 
+
+ pip install requests beautifulsoup4 pandas openpyxl
+
+ ## ejecutar el scrapper
+
+ python plantilla_scraper_pro.py
+
+ ## 📬 Contacto y Servicios
+Desarrollo soluciones a la medida de Web Scraping, Bots de Automatización y Procesamiento de Datos.
+
+GitHub: ErikeO69
+
+Disponibilidad: Proyectos Freelance / Automatizaciones personalizadas.
